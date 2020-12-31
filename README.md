@@ -9,12 +9,11 @@ https://thiagodpaulla.github.io/countdown/.
 
 ### Understand a little more about how it was created.
 
-<! - ts ->
- * [Project] (# project)
- * [Technologies] (# technologies)
- * [License] (# license)
- <! - you ->
 
+ * [Project](# project)
+ * [Technologies](# technologies)
+ * [License](# license)
+ 
 
 # Project
 Countdown created for the year-end party of 2021.
